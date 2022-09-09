@@ -1,0 +1,5 @@
+Car Model	Car Year	Car Price
+------------------------------------------
+polo	2017		25000
+2 Series	2015		26780
+Sedan	2010		20000
